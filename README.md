@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dhimantupreti.
-- 👀 I’m interested in Genrative AI.
-- 🌱 I’m currently preparing for job role Generative AI Engineer.
-- 💞️ I’m looking to collaborate on AI Social Media Management tool.
+- 👋 Hi, I am @dhimantupreti.
+- 👀 I am interested in Generative AI.
+- 🌱 I am currently preparing for job role Generative AI Engineer.
+- 💞️ I am looking to collaborate on AI Social Media Management Tool.
 - 📫 Email: dhimantupreti@gmail.com
 
 <!---
